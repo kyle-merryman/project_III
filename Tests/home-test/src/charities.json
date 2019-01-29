@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "keyword": "Climate Change",
+        "charName": "Earthworks",
+        "url": "https://earthworks.org/about"
+    },
+    {
+        "id": 2,
+        "keyword": "Climate Change",
+        "charName": "National Park Foundation",
+        "url": "https://www.nationalparks.org/about-foundation"
+      },
+    {
+        "id": 3,
+        "keyword": "Climate Change",
+        "charName": "Sierra Club Foundation",
+        "url": "https://www.sierraclubfoundation.org/about-scf"
+    },
+    {
+        "id": 4,
+        "keyword": "Women's Rights",
+        "charName": "9to5",
+        "url": "https://9to5.org"
+    },
+    {
+        "id": 5,
+        "keyword": "Women's Rights",
+        "charName": "American Sexual Health Association",
+        "url": "http://www.ashasexualhealth.org/who-we-are"
+    },
+    {
+        "id": 6,
+        "keyword": "Women's Rights",
+        "charName": "Equality Now",
+        "url": "https://www.equalitynow.org"
+    },
+    {
+        "id": 7,
+        "keyword": "Women's Rights",
+        "charName": "Center for Health and Gender Equity",
+        "url": "http://www.genderhealth.org/"
+    },
+    {
+        "id": 8,
+        "keyword": "Veterans",
+        "charName": "Gary Sinise Foundation",
+        "url": "https://www.garysinisefoundation.org"
+    },
+    {
+        "id": 9,
+        "keyword": "Veterans",
+        "charName": "Wounded Warriors Family Support",
+        "url": "https://www.wwfs.org/wounded-warriors-family-support/information-main/about-us"
+      },
+    {
+        "id": 10,
+        "keyword": "Animal Welfare",
+        "charName": "American Humane",
+        "url": "https://www.americanhumane.org/about-us"
+    },
+    {
+        "id": 11,
+        "keyword": "Animal Welfare",
+        "charName": "PetSmart Charities",
+        "url": "https://www.petsmartcharities.org/what-we-do"
+    }
+]
